@@ -7,3 +7,5 @@ PyPDF2
 pytesseract
 scikit-learn
 pandas
+easyocr
+
