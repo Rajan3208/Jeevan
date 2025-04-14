@@ -5,5 +5,5 @@ spacy
 pypdfium2
 PyPDF2
 pytesseract
-sklearn
+scikit-learn
 pandas
