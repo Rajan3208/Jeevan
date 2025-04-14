@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+spacy
+pypdfium2
+PyPDF2
+pytesseract
+sklearn
+pandas
